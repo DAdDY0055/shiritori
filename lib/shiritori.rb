@@ -12,3 +12,4 @@ class Shiritori
     end
   end
 end
+
